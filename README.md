@@ -1,5 +1,5 @@
 
-This is my personal portfolio website.
+This is my portfolio website.
 It showcases my background, education, interests, technical skills, and ways to connect with me.
 
 * **About Me** section with a short introduction.
