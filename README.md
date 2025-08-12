@@ -15,8 +15,6 @@ It showcases my background, education, interests, technical skills, and ways to 
 * **HTML**
 * **CSS**
 
-## 🌐 Live Demo
 
-*(Add your GitHub Pages or hosting link here if available)*
 
 
