@@ -13,6 +13,9 @@ It showcases my background, education, interests, technical skills, and ways to 
 * **HTML**
 * **CSS**
 
+**Live link **
+https://sevanthibr.github.io/Portfolio/
+
 
 
 
