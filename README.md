@@ -1,5 +1,5 @@
 
-This is my portfolio website.
+This is my portfolio webpage.
 It showcases my background, education, interests, technical skills, and ways to connect with me.
 
 * **About Me** section with a short introduction.
@@ -13,7 +13,7 @@ It showcases my background, education, interests, technical skills, and ways to 
 * **HTML**
 * **CSS**
 
-**Link to the website**
+**Link to the webpage**
 
 https://sevanthibr.github.io/Portfolio/
 
