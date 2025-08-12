@@ -13,7 +13,8 @@ It showcases my background, education, interests, technical skills, and ways to 
 * **HTML**
 * **CSS**
 
-**Live link **
+**Link to the website**
+
 https://sevanthibr.github.io/Portfolio/
 
 
