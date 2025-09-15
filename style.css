@@ -1,11 +1,11 @@
-/* Coffee Brown Themed Portfolio */
+
 
 body {
   font-family: 'Segoe UI', Tahoma, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f5f1e6; /* light coffee cream background */
-  color: #3e2c23; /* deep coffee text */
+  background-color: #f5f1e6;
+  color: #3e2c23; 
 }
 
 h1, h2, h3 {
@@ -14,7 +14,7 @@ h1, h2, h3 {
 }
 
 #header {
-  background-color: #5a3825; /* coffee brown */
+  background-color: #5a3825; 
   color: #fff;
   text-align: center;
   padding: 30px 0;
@@ -24,14 +24,14 @@ section {
   max-width: 800px;
   margin: 30px auto;
   padding: 20px;
-  background-color: #fffaf4; /* soft cream section */
+  background-color: #fffaf4; 
   border-radius: 8px;
   box-shadow: 0px 2px 8px rgba(0,0,0,0.05);
 }
 
 section h2{
   color: #5a3825;
-  border-bottom: 2px solid #d7c0ae; /* coffee accent */
+  border-bottom: 2px solid #d7c0ae; 
   padding-bottom: 5px;
 }
 
@@ -72,3 +72,4 @@ ul li {
   margin-top: 40px;
   font-size: 0.9em;
 }
+
